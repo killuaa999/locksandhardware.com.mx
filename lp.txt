@@ -12,6 +12,7 @@
         <meta name="og:title" content="TOTO 4D || Situs Toto Togel Online & Bandar Togel Online Terbesar di Indonesia" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="TOTO 4D adalah platform togel online terkemuka di indonesia yang telah dipercaya oleh ribuan pemain sebagai salah satu situs bandar togel resmi dan terbesar." />
+        <meta name="google-site-verification" content="BGSMtH16EAYoC-QoFvgNKcfChBs8PwcURoHwVITGhHI" />
         <meta name="keywords" content="koitoto, TOTO4D, TOTO4D togel, TOTO4D login, bandar togel , situs togel , bandar toto togel , bandar togel online" />
         <meta name="og:image" content="https://goodimg.io/images/2025/06/05/tototogel_500x500-satkop01.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
